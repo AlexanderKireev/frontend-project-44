@@ -1,0 +1,11 @@
+export const MAX_COUNT_GAME_ROUNDS = 3;
+export const MIN_RANDOM = 1;
+export const MAX_RANDOM = 50;
+export const MIN_CALCULATOR_OPERAND = -10;
+export const MAX_CALCULATOR_OPERAND = 10;
+export const MIN_PROGRESSION_STEP = -10;
+export const MAX_PROGRESSION_STEP = 10;
+export const MIN_PROGRESSION_LENGTH = 10;
+export const MAX_PROGRESSION_LENGTH = 20;
+export const MIN_PROGRESSION_FIRST_NUM = -50;
+export const MAX_PROGRESSION_FIRST_NUM = 50;
