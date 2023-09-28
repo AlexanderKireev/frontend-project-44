@@ -54,10 +54,6 @@ brain-gcd
 brain-progression
 bain-prime
 ```
-## Запуск меню
-```sh
-brain-menu
-```
 ## Линтер
 ```sh
 make lint
@@ -86,10 +82,6 @@ Let's try again, Bill!
 ```
 
 ## Демонстрация проекта
-
-
-
-
 #### brain-even
 [![asciicast](https://asciinema.org/a/610432.svg)](https://asciinema.org/a/610432)
 #### brain-calc
