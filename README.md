@@ -5,7 +5,7 @@
 ## Проект "Игры разума" ("Brain Games")
 Выполнен в рамках обучения в компании "Хекслет" ("Hexlet Ltd.") на курсе "фронтенд-разработчик".
 
-Принят: XX XX 2023 года. Студент: Киреев Александр. Куратор: Лаврухин Юрий ("Hexlet Ltd.").
+Принят: XX XX 2023 года. Студент: Киреев Александр. Куратор: Dinislam ("Hexlet Ltd.").
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=java-package)
 
@@ -84,19 +84,7 @@ Congratulations, Bill!
 '72' is wrong answer ;(. Correct answer was '70'
 Let's try again, Bill!
 ```
-Также возможен запуск меню выбора игр.
-```java
-Please enter the game number and press Enter.
-1 - Greet
-2 - Even
-3 - Calc
-4 - GCD
-5 - Progression
-6 - Prime
-0 - Exit
-Your choice:
-```
-Необходимый пункт меню нужно выбрать вводом соответсвующего номера с клавиатуры. 
+
 ## Демонстрация проекта
 
 
@@ -112,5 +100,3 @@ Your choice:
 [![asciicast](https://asciinema.org/a/610416.svg)](https://asciinema.org/a/610416)
 #### brain-prime
 [![asciicast](https://asciinema.org/a/610435.svg)](https://asciinema.org/a/610435)
-#### brain-menu
-[![asciicast](https://asciinema.org/a/610445.svg)](https://asciinema.org/a/610445)
